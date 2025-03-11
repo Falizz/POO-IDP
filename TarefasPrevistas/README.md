@@ -43,7 +43,7 @@ O projeto segue uma estrutura organizada em pacotes:
 ```
 
 ## Configuração do Banco de Dados
-O script do banco de dados pode ser encontrado no repositório em [TarefasPrevistasDB.sql](./scriptDB.sql). Certifique-se de executar o script antes de iniciar o sistema.
+O script do banco de dados pode ser encontrado no repositório em [TarefasPrevistasDB.sql](.Database/scriptDB.sql). Certifique-se de executar o script antes de iniciar o sistema.
 
 ## Como Executar o Projeto
 1. **Baixe o repositório e importe no IntelliJ/Eclipse**
